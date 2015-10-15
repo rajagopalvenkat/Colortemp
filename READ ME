@@ -1,0 +1,12 @@
+#	@(#)Program:	    $Colortemp$
+#	@(#)Version:        $Revision: 1.0 $
+#	@(#)Purpose:        Provide Easy GUI adjustment for Redshift
+#	@(#)Author:         V.Rajagopal
+#	@(#)Copyleft RV 2015-16
+
+TO INSTALL Colortemp GUI Indicator, simply execute the install.sh file.
+To run the GUI indicator, use terminal command "colortemp" or search for "colortemp" in applications menu.
+
+Kindly send your feedback to 'rajagopalvenkat@outlook.com'.
+
+
