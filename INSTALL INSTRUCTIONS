@@ -7,7 +7,7 @@
 TO INSTALL Colortemp GUI Indicator, simply execute the install.sh file as root.
 To run the GUI indicator, use terminal command "colortemp" or search for "colortemp" in applications menu.
 
-Installer currently works only for Ubuntu versions 14.04 and before, thanks to Pyinstaler majorly screwing up on newer distros.
+Installer currently works for all Ubuntu versions.
 
 Kindly send your feedback to 'rajagopalvenkat@outlook.com'.
 
