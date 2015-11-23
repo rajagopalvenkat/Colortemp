@@ -5,4 +5,4 @@ Using Python's Tkinter library, and a bit of basic Shell scripting, I came up wi
 
 To install, download and extract contents of tarball anywhere. Execute install.sh. Follow instructions in INSTALL INSTRUCTIONS file.
 
-Note : Currently installer works only for Ubuntu (up to versions 14.04) thanks to Pyinstaller majorly screwing up on newer distros.
+UPDATE : Works for all Ubuntu versions.
