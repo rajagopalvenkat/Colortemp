@@ -4,7 +4,7 @@
 #	@(#)Author:         V.Rajagopal
 #	@(#)Copyleft RV 2015-16
 
-TO INSTALL Colortemp GUI Indicator, simply execute the install.sh file.
+TO INSTALL Colortemp GUI Indicator, simply execute the install.sh file as root.
 To run the GUI indicator, use terminal command "colortemp" or search for "colortemp" in applications menu.
 
 Kindly send your feedback to 'rajagopalvenkat@outlook.com'.
